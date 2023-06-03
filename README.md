@@ -1,7 +1,7 @@
 # ChallengeCalculator-in-C-using-only-Operator
-A calculator in C language which has a challenge, it can only use + for all operations of +,-,*,/. 
+A calculator in C language which has a challenge, it can only use + for all operations of +,-,*,/. (Addition, Subtraction, Multiplication, Division all peformed by Addition operator)
 
-Build the executable from source as it's best otherwise executable has been provided in the #releases section. Version 1.0
+Build the program from source as it's best because of different machine setups, still executable has been provided in the Releases section. Version 1.0
 
 This Project I completed in 16 days time. (Not including 2 days before submission as that was for making 
 code readable and better with gaps and easy comments) , From learning basics from w3school website to building 
